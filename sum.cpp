@@ -15,6 +15,6 @@ for(int i = 0; i < n; i++)
 {
 sum = sum + arr [i];
 }
-cout<< sum ;
+cout<< sum << endl;
 return 0;
 }
